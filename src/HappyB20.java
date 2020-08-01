@@ -4,6 +4,10 @@ public class HappyB20 {
         System.out.println("Still working with GIT");
 
         //a brand new line is added
+        
+        //git fetch
+        //git merge
+        
     }
 
 }
